@@ -1,0 +1,15 @@
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.csproj.AssemblyReference.cache
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.AssemblyInfoInputs.cache
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.AssemblyInfo.cs
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\Post\Post\bin\Debug\net6.0\Post.exe
+C:\ws-vs2022\Post\Post\bin\Debug\net6.0\Post.deps.json
+C:\ws-vs2022\Post\Post\bin\Debug\net6.0\Post.runtimeconfig.json
+C:\ws-vs2022\Post\Post\bin\Debug\net6.0\Post.dll
+C:\ws-vs2022\Post\Post\bin\Debug\net6.0\Post.pdb
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.dll
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\refint\Post.dll
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.pdb
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\Post.genruntimeconfig.cache
+C:\ws-vs2022\Post\Post\obj\Debug\net6.0\ref\Post.dll
